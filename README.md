@@ -17,10 +17,16 @@
 information as in the classes' toString method.
 
 ## Project 3: Queue
-### Driver Class
+### [Driver Class](https://github.com/jordlle/Java-Projects/blob/main/Queue.java)
+- The Queue class is an implementation of a customer management system for a loan office.
+- It contains a menu that performs various actions depending on the users' input.
+- The program allows the user to add a new customer, assign a customer to an officer, release a customer, and list the queues of customers waiting to be assigned a loan officer.
 
-### Customer Class
+### [Customer Class](https://github.com/jordlle/Java-Projects/blob/main/Customer.java)
+- Customer class represent a customer that visits a bank to see a loan officer.
 
-### Customer Management Class
+### [Customer Management Class](https://github.com/jordlle/Java-Projects/blob/main/CustomerManagement.java)
+- This program manages customer queues, assigns customer to loan officer, process and release them, etc.
 
-### Loan Officer Class
+### [Loan Officer Class](https://github.com/jordlle/Java-Projects/blob/main/LoanOfficer.java)
+- LoanOfficer class represents a bank loan officer that accept/handle and release customers.
